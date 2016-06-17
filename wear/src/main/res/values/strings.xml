@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GlobusWearTestApp</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="img_desc">img_desc</string>
+    <string name="list_is_empty">List is empty</string>
+</resources>
